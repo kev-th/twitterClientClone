@@ -23,6 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://i.imgur.com/JFZj429.gif" width=250><br>
+<img src="./TwitterClientCloneGif.gif?raw=true" width=250><br>
 
 
